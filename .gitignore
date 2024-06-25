@@ -2,4 +2,3 @@ Gemfile.lock
 build.sh
 start.sh
 .vscode
-_site/*
