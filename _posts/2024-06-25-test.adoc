@@ -1,6 +1,5 @@
 = Test
 :page-layout: post
-:page-permalink: /sample/
 :url-asciidoctor: https://asciidoctor.org
 
 This is a sample page composed in AsciiDoc.

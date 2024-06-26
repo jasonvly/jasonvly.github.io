@@ -1,23 +1,8 @@
-= About
+= Topics
 :page-layout: page
-:page-permalink: /about/
+:page-permalink: /topics/
+:page-liquid:
 
-== What?
-
-I do stuff.
-
-== Now?
-
-A few things are going on at the moment:
-
-* brushing up on general software development processes (compiling/configuring/installing/customising) through this site. 
-* building mountain bikes and road bikes.
-* training for triathlons in late July and late August.
-* figuring out how I can balance my personal life and career goals. 
-* taking time to write out all the ideas I like to live by, for me.
-* assistant coaching a women's div 2 team at SVL.
-* skipping out on boxing training (which I shouldn't be).
-* fine tuning my 3D printer to try and get a good first layer.
-
-If you have any insight or advice on anything above, feel free to link up with me and we can chat about it. 
-
+++++
+{% include topics.html %}
+++++

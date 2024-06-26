@@ -1,6 +1,6 @@
 = Good Reads, and Why They\'re Good
 :page-layout: post
-:page-categories: reading
+:page-category: reading fishing
 :url-goodreads: https://www.goodreads.com/user/show/57267156-jason-ly
 
 I need something I can quickly give to people when they ask for book recommendations. I'll try to be clear but brief about why a book was good for me. By the way, here's my {url-goodreads}[Goodreads].
