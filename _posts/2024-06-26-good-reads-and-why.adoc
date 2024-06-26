@@ -1,4 +1,4 @@
-= Good Reads, and Why They're Good
+= Good Reads, and Why They\'re Good
 :page-layout: post
 :page-categories: reading
 :url-goodreads: https://www.goodreads.com/user/show/57267156-jason-ly
