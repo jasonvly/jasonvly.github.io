@@ -1,0 +1,89 @@
+= Good Reads, and Why They're Good
+:page-layout: post
+:page-categories: reading
+:url-goodreads: https://www.goodreads.com/user/show/57267156-jason-ly
+
+I need somethiing I can quickly give to people when they ask for book recommendations. We all like different reasons, so I'll try to be clear about why a book was good for me. By the way, here's my {url-goodreads}[Goodreads].
+
+I predominantly read non-fiction that contains actionable strategies, concepts or advice that I can take away when I'm done. Fiction is nice, too.
+
+The list isn't sorted other than under the category it is in.
+
+== Non-fiction
+=== Must read
+
+[cols="1,1,4"]
+|===
+|Title | Author | Reason
+|Thinking, Fast and Slow
+|Daniel Kahnneman
+|You're not useless, you just need to know when to pay attention. 
+
+|Atomic Habits
+|James Clear
+|You are what you do every day.
+
+|Deep Work
+|Cal Newport
+|Fuck multitasking, focus is precious.
+
+|Digital Minimalism
+|Cal Newport
+|Death by autopilot is a thing, and our devices are the drivers.
+
+|Four Thousand Weeks: Time Management for Mortals
+|Oliver Burkeman
+|We've heard of the analogy about starting with the big rocks, then gravel, then sand, water, respectively. Then all of the things will fit into all the spaces of your day. But Burkeman says forget that, you won't even fit all your big rocks in, life's too short, drop most of the shit you think you _might_ want to do.  
+
+|The Body Keeps the Score
+|Bessel van der Kolk
+|Trauma is real and manifests in strange ways.
+
+|No More Mr. Nice Guy
+|Robert A. Glover
+|Why you're a people pleaser and the start of how not to be.
+
+|Stillness is the Key
+|Ryan Holiday
+|Fucking stay still - it will do you good.
+
+|The Obstacle is the Way
+|Ryan Holiday
+|Play the cards you're dealt.
+
+|=== 
+
+
+=== Nice to read
+
+[cols="1,1,4"]
+|===
+|Title | Author | Reason
+|On Writing: A Memoir Of the Craft
+|Stephen King
+|Story is nearly everything, whatever's left is decoration.
+
+| The Psychology of Money
+| Morgan Housel
+| You don't need to be a finance bro, but some financial literacy goes a long way.
+
+| Why We Sleep
+| Matthew Walker
+| Yeah sleep is important. Just how important? How can you get good sleep?
+
+| Ultralearning
+| Scott H. Young
+| There's formulae out there for getting good at things. 
+
+|Man's Search for Meaning
+|Victor Frankl
+|Inspirational anecdote detailiing the resilience required at the ugliest pits of humanity.
+
+|Never Split the Difference
+|Chris Voss
+|Ask for what you want - and enjoy the shitfight that is negotiation.
+
+|=== 
+
+== Fiction
+to do
