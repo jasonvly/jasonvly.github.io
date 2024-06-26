@@ -1,4 +1,4 @@
-= Sample Page
+= Test
 :page-layout: post
 :page-permalink: /sample/
 :url-asciidoctor: https://asciidoctor.org
