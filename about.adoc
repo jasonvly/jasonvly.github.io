@@ -1,23 +1,23 @@
-=== About
+= About
 :page-layout: post
-:page-permalink: /sample/
+:page-permalink: /about/
 
----
+== What?
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I do stuff.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+== Now?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-{jekyll}[https://github.com/jekyll/jekyll]
+A few things are going on at the moment:
 
+* brushing up on general software development processes (compiling/configuring/installing/customising) through this site. 
+* building mountain bikes and road bikes.
+* training for triathlons in late July and late August.
+* figuring out how I can balance my personal life and career goals. 
+* taking time to write out all the ideas I like to live by, for me.
+* assistant coaching a women's div 2 team at SVL.
+* skipping out on boxing training (which I shouldn't be).
+* fine tuning my 3D printer to try and get a good first layer.
 
-[jekyll-organization]: https://github.com/jekyll
-
-
-[source,ruby]
-puts "Hello, World!"
+If you have any insight or advice on anything above, feel free to link up with me and we can chat about it. 
 
