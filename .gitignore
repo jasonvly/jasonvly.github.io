@@ -1,6 +1,7 @@
 Gemfile.lock
 build.sh
 serve.sh
+serve.shdrafts.sh
 draft.sh
 publish.sh
 .vscode
