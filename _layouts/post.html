@@ -18,6 +18,10 @@ layout: default
             {{ mdate | date: date_format }}
           </time>
         {%- endif -%}
+        {%- if page.categories -%}
+          • topics: <a class="post-link" href="/topics/{{ page.categories[0] }}">{{ page.categories }}</a>
+        {%- endif -%}
+        
         {%- if page.author -%}
           • {% for author in page.author %}
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
