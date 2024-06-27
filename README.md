@@ -1,2 +1,2 @@
 # jasonvly.github.io
-Will redirect to personal site via CNAME file
+A free and relatively easy way to get a blog going that I could tailor the display for.
