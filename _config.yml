@@ -28,11 +28,14 @@ github_username:  jasonvly
 linkedin_username: jason-v-ly
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+repository: jasonvly/jasonvly.github.io
+
 plugins:
   - jekyll-asciidoc
   - jekyll-archives
   - jekyll-compose
+  - jekyll-remote-theme
   - jekyll-feed
 
 
