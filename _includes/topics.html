@@ -1,9 +1,9 @@
 
-
-{% for entry in site.categories %}
-    <li>
-        <a href="{{ entry[0] }}"> {{ entry[0] }}</a>
-    </li>
-{% endfor %}
-
-    
+<ul>
+    {% for category in site.categories %}
+      {% assign category_name = category[0] %}
+      <li>
+        <a href="/topics/{{ category_name | slugify }}/">{{ category_name }}</a>
+      </li>
+    {% endfor %}
+</ul>

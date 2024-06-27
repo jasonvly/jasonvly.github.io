@@ -1,4 +1,4 @@
-= About
+= Me
 :page-layout: page
 :page-permalink: /about/
 

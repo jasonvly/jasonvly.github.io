@@ -20,7 +20,7 @@
 author: Jason Ly
 title: jason's dump
 description: >- # this means to ignore newlines until "baseurl:"
-  Where transitory thoughts are free to loiter and talk trash.
+  Where transient thoughts and trash talk are free to loiter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jasonvly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,8 +31,20 @@ linkedin_username: jason-v-ly
 theme: minima
 plugins:
   - jekyll-asciidoc
+  - jekyll-archives
   - jekyll-feed
 
+
+jekyll-archives:
+  enabled: 
+    - categories
+  layout: archive
+  permalinks:
+#    year: '/:year/'
+#    month: '/:year/:month/'
+#    day: '/:year/:month/:day/'
+#    tag: '/tag/:name/'
+    category: '/topics/:name/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

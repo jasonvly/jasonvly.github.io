@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # uncomment below to return to normal dev
-# gem "jekyll", "~> 4.3.3"
+#gem "jekyll", "~> 4.3.3"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -24,6 +24,7 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-asciidoc"
+  gem "jekyll-archives"
   gem "jekyll-feed", "~> 0.12"
 end
 
