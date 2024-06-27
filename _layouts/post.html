@@ -18,8 +18,12 @@ layout: default
             {{ mdate | date: date_format }}
           </time>
         {%- endif -%}
+        
         {%- if page.categories -%}
-          • topics: <a class="post-link" href="/topics/{{ page.categories[0] }}">{{ page.categories }}</a>
+        • topics:
+          {% for topic in page.categories %}
+            <a href="/topics/{{ topic }}"><nobr>{{ topic }}</nobr></a>
+          {% endfor %} 
         {%- endif -%}
         
         {%- if page.author -%}
