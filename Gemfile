@@ -26,6 +26,7 @@ group :jekyll_plugins do
   gem "jekyll-asciidoc"
   gem "jekyll-archives"
   gem "jekyll-compose"
+  gem "jekyll-remote-theme"
   gem "jekyll-feed", "~> 0.12"
 end
 
