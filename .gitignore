@@ -1,5 +1,7 @@
 Gemfile.lock
 build.sh
-start.sh
+serve.sh
+draft.sh
+publish.sh
 .vscode
 _site

@@ -25,6 +25,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-asciidoc"
   gem "jekyll-archives"
+  gem "jekyll-compose"
   gem "jekyll-feed", "~> 0.12"
 end
 
