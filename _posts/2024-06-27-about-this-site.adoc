@@ -1,0 +1,18 @@
+---
+layout: post
+title: What's powering this website?
+date: 2024-06-27 19:32 +1000
+---
+:page-categories: [software]
+:url-github: "https://github.com/jasonvly/jasonvly.github.io"
+
+A good tester to set up and configure a static site generator. Under the hood, here are the features:
+
+* Jekyll (with the following plugins):
+** GitHub pages, with GitHub Actions configured for easy deployment.
+** jekyll-asciidoc, because I like asciidoc more than markdown.
+** jekyll-compose, because the process of renaming and moving files is annoying.
+** jekyll-archive, because Jekyll doesn't come with an OOTB way to browse posts by category.
+
+
+You can view the code https://github.com/jasonvly/jasonvly.github.io[*here*].
