@@ -1,10 +1,11 @@
 = Me
 :page-layout: page
 :page-permalink: /about/
+:url-topics: https://jasonvly.github.io/topics/
 
 == What?
 
-I do stuff.
+I do stuff. I obsess over the choices I make and how I can make better ones. You can see all the topics I write about over {url-topics}[here].
 
 == Now?
 
