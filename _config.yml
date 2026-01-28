@@ -17,41 +17,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-author: Jason Ly
-title: jason's dump
+
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Where transient thoughts and trash talk are free to loiter.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jasonvly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
-timezone: Australia/Sydney
 
-github_username:  jasonvly
-linkedin_username: jason-v-ly
 
 # Build settings
-remote_theme: pages-themes/cayman
-repository: jasonvly/jasonvly.github.io
-
+remote-theme: pages-themes/hacker@latest
 plugins:
-  - jekyll-asciidoc
-  - jekyll-archives
-  - jekyll-compose
-  - jekyll-remote-theme
   - jekyll-feed
-
-
-jekyll-archives:
-  enabled: 
-    - categories
-  layout: archive
-  permalinks:
-#    year: '/:year/'
-#    month: '/:year/:month/'
-#    day: '/:year/:month/:day/'
-#    tag: '/tag/:name/'
-    category: '/topics/:name/'
-
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
